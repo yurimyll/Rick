@@ -1,0 +1,29 @@
+
+div {
+    font-family: 'Courier New', Courier, monospace;
+    display: flex ;
+    align-items: center;
+    flex-direction: column;
+}
+
+a {
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+}
+img {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 auto;
+    width: 300px;
+}
+
+body {
+    background-color: rgb(197, 250, 247);
+}
